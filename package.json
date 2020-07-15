@@ -1,0 +1,26 @@
+{
+  "name": "kodemia-api-octava",
+  "version": "1.0.0",
+  "description": "API for 8th white generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodemia/kodemia-api-octava.git"
+  },
+  "keywords": [
+    "kodemia",
+    "white",
+    "octava",
+    "express",
+    "bootcamp"
+  ],
+  "author": "@devcharles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodemia/kodemia-api-octava/issues"
+  },
+  "homepage": "https://github.com/kodemia/kodemia-api-octava#readme"
+}
