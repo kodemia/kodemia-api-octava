@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/kodemia/kodemia-api-octava/issues"
   },
-  "homepage": "https://github.com/kodemia/kodemia-api-octava#readme"
+  "homepage": "https://github.com/kodemia/kodemia-api-octava#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
